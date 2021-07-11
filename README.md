@@ -1,0 +1,2 @@
+# omoritr.github.io
+omoritr
